@@ -44,7 +44,7 @@ export const portfolioData = {
     title: "AI-Based Sales Automation CRM System",
     description:
       "Enterprise CRM platform for enquiry management, inventory intelligence, vendor comparison, price estimation, and ERP integration.",
-    image: "./public/Automation CRM.png",
+    image: "/public/AutomationCRM.png",
     techStack: [
       "ASP.NET Core",
       "React",
@@ -61,7 +61,7 @@ export const portfolioData = {
     title: "Enterprise Ticketing Management System",
     description:
       "Enterprise helpdesk system with role-based authentication, SSO login, ticket lifecycle management, SLA tracking, email notifications, and reporting.",
-    image: "./public/ticketing syetem.png",
+    image: "/public/ticketingsyetem.png",
     techStack: [
       "ASP.NET MVC",
       "SQL Server",
@@ -78,7 +78,7 @@ export const portfolioData = {
     title: "Cash-Future Ticker Mapping System",
     description:
       "Financial application for mapping cash and futures trade directions with optimized SQL queries, server-side DataTables, and reporting modules.",
-    image: "./public/CFTMS.png",
+    image: "/public/CFTMS.png",
     techStack: [
       "ASP.NET MVC",
       "SQL Server",
@@ -94,7 +94,7 @@ export const portfolioData = {
     title: "Enterprise Automation Utilities",
     description:
       "Automation tools for scheduled jobs, SMS notifications, logging, exception handling, and API integration using Windows Task Scheduler.",
-    image: "./public/automation.png",
+    image: "/automation.png",
     techStack: [
       ".NET",
       "SQL Server",
