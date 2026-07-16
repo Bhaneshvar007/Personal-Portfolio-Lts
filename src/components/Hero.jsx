@@ -36,7 +36,8 @@ const Hero = () => {
   const handleDownloadCV = () => {
     // Create a dummy CV download
     const link = document.createElement('a');
-    link.href = '#';
+    link.href = 'https://drive.google.com/file/d/1eob8Ep0fj79WkOnfk5PsjAezF97bKN16/view?usp=sharing';
+    link.target = '_blank';
     link.download = 'Bhaneshvar_Kshirsagar_CV.pdf';
     link.click();
   };
