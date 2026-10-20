@@ -26,9 +26,9 @@ function App() {
         <Hero />
         <About />
         <Education />
-        <Projects />
-        <Experience />
         <Skills />
+        <Experience />
+        <Projects />
         <Contact />
       </main>
       <ScrollToTop />
